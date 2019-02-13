@@ -1,8 +1,38 @@
 # assignment-0-pradiptlx
 
-## Bad Design and User Experience of Wangsit Education Website
+My assignment for IMK A class
+
+* Akwila Feliciano P 05111740000181
+
+******
+
+## Contents:
+
+1. [Wangsit Education Website](#1-bad-design-and-user-experience-of-wangsit-education-website)
+
+    * [What's bad on this web](#11-bad-things)
+    * [Conclusion](#12-conclusion)
+    * [Demo](#13-demo)
+
+2. [Anki Desktop Application](#2-anki-desktop-application)
+
+    * [Overview](#21-overview-of-anki)
+    * [Conclusion](#22-conclusion)
+    * [Demo](#23-demo)
+
+3. [21 Cinema Website](#3-21cineplex-website)
+
+    * [Overview](#31-overview)
+    * [Conclusion](#32-conclusion)
+    * [Demo](#33-demo)
+
+******
+
+## 1. Bad Design and User Experience of Wangsit Education Website
 
 First of all, I analyze this website from Desktop browser. I visited this website since 2017 and today, the principal design didn't change at all (from my perspective). Wangsit Education Website is categorized to _Online Shopping_. This website sells _SBMPTN, SIMAK UI, UTUL UGM_ books.
+
+### 1.1 Bad things
 
 Let's breakdown the bad side of this website.
 
@@ -47,3 +77,55 @@ Let's breakdown the bad side of this website.
     ![Inconsistent layout](images/inconsistent-form-layout.png)
 
     Form doesn't look good because its layout not fit with other form. Most importantly, whole website has ugly font and font size so its gives difficult to read.
+
+### 1.2 Conclusion
+
+The desktop website's layout should give more consistent and shrink the useless free space (more compact design). Font style and font size also must be fixed for user experience.
+
+### 1.3 Demo
+
+******
+
+## 2. Anki Desktop Application
+
+### 2.1 Overview of Anki
+
+Anki is a spaced repetition flashcard program. It is avaliable on many OS and web version.
+
+In this topics, I use Linux version. This is what it looks on Linux.
+
+![dashboard anki](images/anki/dashboard.png)
+
+It has simple interface. When I first time used it, I got difficult to create deck or explore other things in this app because its UI. This is what I mean:
+
+![create menu](images/anki/create-menu.png)
+
+From the website, they said that this app is powerfull because using _LATEX_ to create some scientific card.
+>Anyone who needs to remember things in their daily life can benefit from Anki. Since it is content-agnostic and supports images, audio, videos and scientific markup (via LaTeX), the possibilities are endless.
+
+But I have no idea how to create complex card in the first time (because I never use it and didn't read the documentation).
+
+This is some looks of _deck_ :
+
+![deck](images/anki/example-deck.png)
+
+When you click "_study now_":
+
+![card](images/anki/example-card.png)
+![answer](images/anki/answer.png)
+
+### 2.2 Conclusion
+
+I think for user who use it first time will get difficult to create and using the card. Maybe if the interface better than this and give in-app documentation, this app will more get attention.
+
+### 2.3 Demo
+
+******
+
+## 3. 21Cineplex Website
+
+### 3.1 Overview
+
+### 3.2 Conclusion
+
+### 3.3 Demo
