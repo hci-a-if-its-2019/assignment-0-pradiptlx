@@ -126,6 +126,32 @@ I think for user who use it first time will get difficult to create and using th
 
 ### 3.1 Overview
 
+[21cineplex](www.21cineplex.com) is website from Cinema21 Theater. It is the biggest entertainment theater in Indonesia. This is the homepage of their website.
+
+![21cinema](images/21cineplex/homepage.png)
+
+I found something important about bad design here. Let's break down.
+
+#### 1. Carousel didn't work as it is
+
+![carousel didn't work](images/21cineplex/carousel-not-work.gif)
+
+When I pressed next button, I found something odd. The website redirect to list of "_playing now_" page. It's not what carousel used for.
+
+#### 2. Login form and no signup on homepage
+
+![login form](images/21cineplex/small-login-form.png)
+
+Login form is so small and text color doesn't match with its background. It's hard to see a text with a color thats give high contrast and unfortunately the background of website is also makes it looks bad.
+
+#### 3. Doesn't show search query
+
+![search](images/21cineplex/cant-search-query.gif)
+
+When I want to search a movie and hit the button directly, it doesn't show up anything. Just blank query result. It makes search button useless because its result not working properly.
+
 ### 3.2 Conclusion
+
+This website doesn't apply good design principle even though this company is quite large. They should redesign and use _SSL Encryption_ to secure user when login or signup.
 
 ### 3.3 Demo
