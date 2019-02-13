@@ -84,6 +84,8 @@ The desktop website's layout should give more consistent and shrink the useless 
 
 ### 1.3 Demo
 
+[![Youtube Embedded](https://img.youtube.com/vi/f7OR0h17-t8/0.jpg)](https://youtu.be/f7OR0h17-t8)
+
 ******
 
 ## 2. Anki Desktop Application
@@ -120,6 +122,8 @@ I think for user who use it first time will get difficult to create and using th
 
 ### 2.3 Demo
 
+[![youtube embedded](https://img.youtube.com/vi/hZhN_hpYhs4/0.jpg)](https://youtu.be/hZhN_hpYhs4)
+
 ******
 
 ## 3. 21Cineplex Website
@@ -155,3 +159,5 @@ When I want to search a movie and hit the button directly, it doesn't show up an
 This website doesn't apply good design principle even though this company is quite large. They should redesign and use _SSL Encryption_ to secure user when login or signup.
 
 ### 3.3 Demo
+
+[![youtube embedded](https://img.youtube.com/vi/bw50D1s4u4c/0.jpg)](https://youtu.be/bw50D1s4u4c)
